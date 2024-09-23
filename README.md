@@ -8,7 +8,15 @@ After some searching, I decided to take inspiration from the mirror dimension in
 
 ### **Part 2 Coding Technique Exploration**
 
-In P5.js, you can create a kaleidoscope effect by using translate(), rotate(), and scale(). To recreate the mirror dimension, we can begin with a central object and use translate to move the origin. We can rotate the shapes to mimic the fractal-like folding in the movie and use scale to flip elements, creating reflections of objects often seen in a kaleidoscope. By combining these principles with design compositions, I think it is possible to create the illusion of endlessly shifting geometric shapes, and while it won’t be as complex as the movie, it will still look interesting and exciting.
+ To recreate the mirror dimension in P5.js, we can create a kaleidoscope effect by using translate(), rotate(), and scale().
+
+- translate() : we can begin with a central object and use translate to shift the   origin.
+
+- rotate() : We can use rotate to mimic the fractal-like folding in the movie.
+
+- Scale() : flip elements, creating reflections of objects often seen in a kaleidoscope.
+
+By combining these principles with design compositions, I think it is possible to create the illusion of endlessly shifting geometric shapes, while it won’t be as complex as the movie, it will still look interesting.
 
 [Kaleidoscope example 1, P5.js examples] {https://p5js.org/examples/repetition-kaleidoscope/}
 
