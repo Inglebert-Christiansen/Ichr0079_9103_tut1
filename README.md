@@ -4,9 +4,9 @@
 I have selected Pacita Abad's *Wheel of Fortune* as my artwork. After some research, I decided to take inspiration from the mirror dimension in the Doctor Strange movie. The mirror dimension uses geometrical shapes to create kaleidoscopic circles and patterns inspired by mathematical equations, and from my observations, the artwork I chose can also be broken down into two main parts, the circle and the pattern. Tying that into what I have learned in class, I think it would be interesting to consider the formula and functions to create the illusion of moving patterns in an array of circles.
 
 example 1
-![mirror dimension image](readmeImages\Example_1.png)
+![mirror dimension image](readmeImages/Example_1.png)
 example 2
-![mirror dimension image](readmeImages\Example_2.jpg)
+![mirror dimension image](readmeImages/Example_2.jpg)
 
 ### **Part 2 Coding Technique Exploration**
 
